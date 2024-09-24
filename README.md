@@ -27,5 +27,5 @@
 <br>
 
 ## 책이 유용하다고 생각하셨나요?👍
-- 깃허브 스타⭐를 통해 책을 지지해주세요!<br>책을 지지한 사람을 [Starganizers](https://github.com/seyoungcho2/coroutinelecture/stargazers) 페이지에서 볼 수 있습니다.
+- 깃허브 스타⭐를 통해 책을 지지해주세요!<br>책을 지지한 사람을 [Starganizers](https://github.com/seyoungcho2/coroutinelecture/stargazers) 페이지에서 볼 수 있습니다.
 - 강의가 어땠는지 수강평을 남겨주세요!
