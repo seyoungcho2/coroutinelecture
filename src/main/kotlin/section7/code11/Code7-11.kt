@@ -16,8 +16,3 @@ fun main() {
   }
   Thread.sleep(1000L) // 코드 종료 방지
 }
-
-/*
-// 결과:
-[CustomScopeThread @coroutine#1] 코루틴 실행 완료
-*/

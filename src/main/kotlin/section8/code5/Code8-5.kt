@@ -18,13 +18,3 @@ fun main() = runBlocking<Unit> {
   }
   supervisorJob.complete() // supervisorJob 완료 처리
 }
-/*
-// 결과:
-Exception in thread "main" java.lang.Exception: 예외 발생
-	at chapter8.code5.Code8_5Kt$main$1$1$1.invokeSuspend(Code8-5.kt:9)
-	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
-	...
-[main @Coroutine2#3] 코루틴 실행
-
-Process finished with exit code 0
-*/
