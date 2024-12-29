@@ -9,7 +9,7 @@ import org.junit.jupiter.api.Test
 
 class BackgroundScopeTest {
   @Test
-  fun `메인 스레드만 사용하는 runTest`() = runTest {
+  fun `코루틴이 실행 완료될 때까지 호출 스레드를 블로킹하는 runTest`() = runTest {
     println(Thread.currentThread())
   }
 
